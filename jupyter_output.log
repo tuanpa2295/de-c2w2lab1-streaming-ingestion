@@ -1,0 +1,46 @@
+nohup: ignoring input
+[I 2024-09-22 04:12:11.850 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-22 04:12:11.864 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-22 04:12:11.882 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-22 04:12:11.886 ServerApp] Writing Jupyter server cookie secret to /home/ec2-user/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2024-09-22 04:12:13.359 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-22 04:12:13.476 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-22 04:12:13.482 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-22 04:12:13.484 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-22 04:12:13.489 LabApp] JupyterLab extension loaded from /home/ec2-user/environment/jupyterlab-venv/lib64/python3.9/site-packages/jupyterlab
+[I 2024-09-22 04:12:13.489 LabApp] JupyterLab application directory is /home/ec2-user/environment/jupyterlab-venv/share/jupyter/lab
+[I 2024-09-22 04:12:13.491 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-22 04:12:13.501 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-22 04:12:13.502 ServerApp] Serving notebooks from local directory: /home/ec2-user/environment
+[I 2024-09-22 04:12:13.503 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-22 04:12:13.503 ServerApp] http://ip-10-0-1-203.ec2.internal:8888/lab?token=3a4c1c92a33e4a6d595bb6e6b42a77ffaedfae06b2e11ed9
+[I 2024-09-22 04:12:13.503 ServerApp]     http://127.0.0.1:8888/lab?token=3a4c1c92a33e4a6d595bb6e6b42a77ffaedfae06b2e11ed9
+[I 2024-09-22 04:12:13.503 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-09-22 04:12:13.514 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-09-22 04:12:13.515 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/ec2-user/.local/share/jupyter/runtime/jpserver-2635-open.html
+    Or copy and paste one of these URLs:
+        http://ip-10-0-1-203.ec2.internal:8888/lab?token=3a4c1c92a33e4a6d595bb6e6b42a77ffaedfae06b2e11ed9
+        http://127.0.0.1:8888/lab?token=3a4c1c92a33e4a6d595bb6e6b42a77ffaedfae06b2e11ed9
+[I 2024-09-22 04:12:15.019 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-09-22 04:13:00.127 LabApp] Build is up to date
+[I 2024-09-22 04:15:15.094 ServerApp] Writing notebook-signing key to /home/ec2-user/.local/share/jupyter/notebook_secret
+[W 2024-09-22 04:15:15.095 ServerApp] Notebook C2_W2_Lab_1_Streaming_Ingestion.ipynb is not trusted
+[I 2024-09-22 04:15:16.861 ServerApp] Kernel started: 3ae21984-de51-49ae-8463-0162ecd6df69
+[I 2024-09-22 04:15:18.245 ServerApp] Connecting to kernel 3ae21984-de51-49ae-8463-0162ecd6df69.
+[I 2024-09-22 04:15:18.719 ServerApp] Connecting to kernel 3ae21984-de51-49ae-8463-0162ecd6df69.
+[I 2024-09-22 04:15:19.191 ServerApp] Connecting to kernel 3ae21984-de51-49ae-8463-0162ecd6df69.
+[I 2024-09-22 04:17:17.735 ServerApp] Saving file at /C2_W2_Lab_1_Streaming_Ingestion.ipynb
+[I 2024-09-22 04:21:18.516 ServerApp] Saving file at /C2_W2_Lab_1_Streaming_Ingestion.ipynb
+[I 2024-09-22 04:23:19.283 ServerApp] Saving file at /C2_W2_Lab_1_Streaming_Ingestion.ipynb
+[I 2024-09-22 04:25:07.160 ServerApp] Saving file at /src/etl/consumer.py
+[I 2024-09-22 04:25:19.874 ServerApp] Saving file at /C2_W2_Lab_1_Streaming_Ingestion.ipynb
+[I 2024-09-22 04:26:19.455 ServerApp] Saving file at /src/etl/consumer.py
+[I 2024-09-22 04:26:43.167 ServerApp] Saving file at /src/etl/consumer.py
+[I 2024-09-22 04:28:44.978 ServerApp] Saving file at /src/etl/consumer.py
+[I 2024-09-22 04:29:11.076 ServerApp] Saving file at /src/etl/consumer.py
+[I 2024-09-22 04:29:47.430 ServerApp] Saving file at /src/etl/consumer.py
+[I 2024-09-22 04:30:22.080 ServerApp] New terminal with automatic name: 1
+[I 2024-09-22 04:30:58.478 ServerApp] New terminal with automatic name: 2
